@@ -16,3 +16,7 @@ Simple app that calculates growth of a dollar over time.
 + Income tax is `20%`.
 
 `node get-post-tax`
+
+## References
+
++ http://www.lynda.com/Business-Accounting-tutorials/Personal-Finance-Fundamentals/363223-2.html
