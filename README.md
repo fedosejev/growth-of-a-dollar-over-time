@@ -14,3 +14,5 @@ Simple app that calculates growth of a dollar over time.
 + Initial amount is `$1`.
 + Period is `5 years`.
 + Income tax is `20%`.
+
+`node get-post-tax`
