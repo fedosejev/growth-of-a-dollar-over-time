@@ -17,6 +17,6 @@ Simple app that calculates growth of a dollar over time.
 
 `node get-post-tax`
 
-## References
+## Learn more
 
 + http://www.lynda.com/Business-Accounting-tutorials/Personal-Finance-Fundamentals/363223-2.html
